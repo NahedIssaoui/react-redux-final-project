@@ -1,0 +1,17 @@
+.custom-card {
+  height: 100%;
+  background: lightgrey;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 50px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 26px -18px inset;
+  border: none;
+  border-radius: 25px;
+}
+
+
+.card-img {
+  height: 150px;
+  object-fit: contain;
+ 
+}
+.custom-card:hover {
+  transform: scale(1.1); 
+}

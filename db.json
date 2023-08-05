@@ -1,0 +1,287 @@
+{
+  "products": [
+    {
+      "id":1,
+      "title":"One piece - Luffy Funny Face T-Shirts ",
+      "price":47.00,
+      "description":"To make things hilarious, we decided to bring in these t-shirts that come with the funny face of Luffy. So if you want to get a good laugh among your friends, buy one now!",
+      "category":"T-Shirts and hoodies",
+      "image":"https://otakustore.net/wp-content/uploads/2023/05/248663-bua226-350x350.jpg",
+      "rating":{"rate":4.8,"count":259}
+    },
+    {
+      "id":2,
+      "title":" Gintama - Gintama Summer Short Sleeve Casual T-shirts",
+      "price":31.00 ,
+      "description":"Discover the exclusive Uniqlo Gintama t-shirt collection, including options for women like the Uniqlo women’s t-shirt and the Kagura t-shirt. Step into the world of Gintama with these comfortable and stylish t-shirts, and let your love for the series shine!",
+      "category":"T-Shirts and hoodies",
+      "image":"https://otakustore.net/wp-content/uploads/2023/07/259788-az0x2i-350x350.jpg",
+      "rating":{"rate":4.1,"count":202}
+    },
+
+    {
+      "id":3,
+      "title":"Black Clover - Embrace the Magic Black Clover Anime-themed T-shirts Collection ",
+      "price":42,
+      "description":" Made from a high-quality, soft, and breathable material, these T-shirts offer exceptional comfort for everyday wear. Whether you’re attending a convention, hanging out with friends, or simply expressing your love for Black Clover Anime, these T-shirts are the perfect choice. Embrace your inner magic and join the ranks of the Clover Kingdom with these stylish and visually stunning Black Clover Anime-themed T-shirts.",
+      "category":"T-Shirts and hoodies",
+      "image":"https://otakustore.net/wp-content/uploads/2023/06/256171-ggaweg-768x768.jpg",
+      "rating":{"rate":4,"count":180}
+    },
+    {
+      "id":4,
+      "title":" Demon Slayer - The Big Three Themed Cool Hoodies",
+      "price":45 ,
+      "description":"Demon Slayer has got a wide range of characters, and this is what makes the show a lot of fun to watch. The show focuses on the story of a boy who has lost his family to demons, and even his sister is possessed by them. Now he has to fight his way out and find a cure for her sister and get her back to normal. But his journey is not easy, considering the demon attacks.",
+      "category":"T-Shirts and hoodies",
+      "image":"https://otakustore.net/wp-content/uploads/2023/04/240164-gp7sxl-350x350.jpg",
+      "rating":{"rate":4.5,"count":220}
+    },
+    {
+      "id":5,
+      "title":"Bleach – Ichigo Themed Badass Hoodies ",
+      "price": 35.00,
+      "description":"Bleach might have gotten old due to its initial release date, but the thing is, the anime has competed with some of the greatest in the industry like Naruto and One Piece. Bleach is also a shounen anime that focuses on the protagonist Ichigo. Ichigo is a badass person with humor who is quite firm in his beliefs and aims.",
+      "category":"T-Shirts and hoodies",
+      "image":"https://otakustore.net/wp-content/uploads/2022/06/221404-vchlhx-350x350.jpg",
+      "rating":{"rate":4.1,"count":259}
+    },
+    {
+      "id":6,
+      "title":" Spy X Family - Anya Themed Wholesome Hoodies",
+      "price":37.00 ,
+      "description":"We recommend Spy X Family to anyone who is simply looking for a relaxing show that could make them laugh and offer some wholesome moments with a cute family. But that is not all the show has to offer. There are some very interesting twists in the story, some cute fights, and character development that would make you love the show even more.",
+      "category":"T-Shirts and hoodies",
+      "image":"https://otakustore.net/wp-content/uploads/2023/04/239931-0mdr1l-350x350.jpg",
+      "rating":{"rate":4.7,"count":250}
+    },
+    {
+      "id":7,
+      "title":"Couple Cat Kawaii and Comfortable Hoodies",
+      "price":27.00 ,
+      "description":"Cats are unquestionably one of the most loving creatures that can be petted too. If you have experienced petting different cats, then you would know cats can be quite attaching and comforting too. They can be playable, but not so loyal, until or unless you are providing them everything they want.If you also have a special place for cats in your heart, then we have something that might love. You can buy these kawaii and comfortable hoodies with cute cat couples printed on them.",
+      "category":"T-Shirts and hoodies",
+      "image":"https://otakustore.net/wp-content/uploads/2022/01/191435-hfaukz-100x100.jpg",
+      "rating":{"rate":3,"count":50}
+    },
+    {
+      "id":8,
+      "title":"Dragon Ball - Different Characters Themed Stylish Caps",
+      "price":27.00 ,
+      "description":"Dragon Ball will always be a favorite to countless fans all over the world. The whole story of the show might seem simple, but it is actually very interesting. The series is also divided into several story arcs, each with its own set of villains and challenges. The first arc, often referred to as the “Pilaf Saga,” introduces the concept of the Dragon Balls and Goku’s origins. Later arcs introduce new characters, including Vegeta, Piccolo, and the androids, and explore the depths of Goku's power.Now you can give your style a better look with these amazing caps themed with Dragon Ball characters. There are many designs to choose from, so check them out now!",
+      "category":"Caps & Hats",
+      "image":"https://otakustore.net/wp-content/uploads/2023/05/250279-ccewz7-640x640.jpg",
+      "rating":{"rate":3,"count":70}
+    },
+    {
+      "id":9,
+      "title":"Naruto - Different Clans Themed Cool Summer Caps",
+      "price":22.00 ,
+      "description":" There are several different clans in the Naruto anime and manga series, each with their own unique abilities and histories. One of the most popular is the Uchiha Clan which is one of the most famous and powerful clans in the Naruto universe. They are known for their Sharingan eye technique, which gives them incredible visual prowess and the ability to copy any ninjutsu technique they witness. Other than that, there are more clans like the Nara clan, Uzumaki clan, Senju clan, and more.Well, it does not matter which one you personally like, as we have brought their themed caps for you to grab. Check out the designs and pick your favorite one right away!",
+      "category":"Caps & Hats",
+      "image":"https://otakustore.net/wp-content/uploads/2023/05/250259-lrbilg.jpg",
+      "rating":{"rate":3.8,"count":170}
+    },
+    {
+      "id":10,
+      "title":"Tokyo Ghoul – Kaneki Themed Terrific and Badass Beanie Hats ",
+      "price":22.00 ,
+      "description":"Tokyo Ghoul has ended a few years back but have you ever wondered why the show is still talked about? Have you ever wondered why the show still has a big fanbase despite running for a few years only? The simple reason is, the show offered what the fans wanted to see. The first two seasons were so good that fans even considered as the GOAT among all the shows. But directors and producers messed up the later seasons making it an average anime, just like others. ",
+      "category":"Caps & Hats",
+      "image":"https://otakustore.net/wp-content/uploads/2022/01/189617-7uobsk-640x640.jpg",
+      "rating":{"rate":4,"count":150}
+    },
+    {
+      "id":11,
+      "title":"One Piece - Pirate Skeleton Themed Necklaces (2 Designs)",
+      "price":47.00 ,
+      "description":"One Piece is definitely one-of-a-kind anime that has been going on for over two decades now. It focuses on the life of a boy named as Luffy, who has got properties of rubber. Luffy and his diverse crew of pirates, named the Straw Hat Pirates, travel the Grand Line in search of the world’s ultimate treasure, known as “One Piece,” so that Luffy can become the Pirate King.Today, we have brought you some cool necklaces of Pirate Skeletons that you can check out and buy. So what are you waiting for? ",
+      "category":"Accessories",
+      "image":"https://otakustore.net/wp-content/uploads/2023/05/250591-cuq7bw-350x350.jpg",
+      "rating":{"rate":4.4,"count":190}
+    },
+    {
+      "id":12,
+      "title":"Attack on Titan - Wings of Freedom Themed Necklaces (2 Designs)",
+      "price":46.00 ,
+      "description":" There is no doubt that Attack on Titan is among the top anime shows there ever have been on the internet. It is a dark fantasy and post-apocalyptic anime series that can twist your mind with its plot. The story takes place in a world where humanity lives in cities surrounded by enormous walls to protect themselves from giant humanoid creatures called Titans, who devour humans without reason.For the fans, we at OtakuStore decided to bring these amazing necklaces with the theme of Wings of Freedom. Grab them now before the stock runs out.",
+      "category":"Accessories",
+      "image":"https://otakustore.net/wp-content/uploads/2023/05/250586-8cilcc-350x350.jpg",
+      "rating":{"rate":3,"count":70}
+    },
+    {
+      "id":13,
+      "title":"Jujutsu Kaisen - Jujutsu Kaisen All Characters cute Enamel Pins",
+      "price":25.00 ,
+      "description":"Introducing our Jujutsu Kaisen All Characters Enamel Pin - the perfect accessory for any anime lover! This cute and vibrant pin features all your favorite Jujutsu Kaisen characters, beautifully crafted with enamel finish. Showcase your passion for the anime industry and let your fandom shine with this must-have collectible. Grab yours now and add a touch of anime magic to your everyday style! ",
+      "category":"Accessories",
+      "image":"https://otakustore.net/wp-content/uploads/2023/07/257638-xcsyzi-350x350.jpg",
+      "rating":{"rate":3.4,"count":190}
+    },
+    {
+      "id":14,
+      "title":"Black Clover - Anime Asta Cool Keychain Motorcycle Car Backpack Gifts",
+      "price":34.00 ,
+      "description":" The perfect accessory for Black Clover fans who want to showcase their love for the series on their motorcycle, car, or backpack. This stylish keychain is designed with Asta, one of the show’s iconic characters, in mind.Join Asta on his magical adventures and showcase your love for Black Clover with the Anime Asta Cool Keychain. Stand out from the crowd and let your fandom shine with this unique and visually striking accessory. Don’t miss your chance to own a piece of the Black Clover universe and elevate your style with this cool and collectible keychain.",
+      "category":"Accessories",
+      "image":"https://ae01.alicdn.com/kf/S96aadf0156d3498b82c565c647da306cC.jpg",
+      "rating":{"rate":4,"count":190}
+    },
+    {
+      "id":15,
+      "title":"One Piece - Different Characters Themed Plush Toys/Keychains",
+      "price":20.00 ,
+      "description":"It is nearly impossible for any show, movie series, or anime to run for more than two decades continuously and still have millions of fans that are madly in love with it. But this is not the case with One Piece. One Piece has marked a generation with its story, characters, and development, and it is still going on strong. The protagonist, Lufft, whom we had all been seeing since he was a child, is now a grown lad, focused on finding the treasure more than ever! ",
+      "category":"Dolls & Plushies",
+      "image":"https://otakustore.net/wp-content/uploads/2023/04/243480-ctaejz-350x350.jpg",
+      "rating":{"rate":4,"count":190}
+    },
+    {
+      "id":16,
+      "title":"Spy x Family - All Best Characters Themed Plush Dolls",
+      "price":27.00 ,
+      "description":"If you are tired of watching the same old shows with the same old fights, stories, romance, and twists, it is time to change the genre entirely and try something different. And by different, we mean Spy x Family, which is one of the best shows out there. It has positive vibes, funny moments, cute connections, some suspense, and a great overall story to begin with. ",
+      "category":"Dolls & Plushies",
+      "image":"https://otakustore.net/wp-content/uploads/2023/04/242176-z8qn0o-350x350.jpg",
+      "rating":{"rate":3,"count":290}
+    },
+    {
+      "id":17,
+      "title":"Demon Slayer - Different Chubby Character Themed Cute Plush Dolls",
+      "price":21.00 ,
+      "description":"The standards of viewers have drastically upped during the past few years. It can now be quite hard to satisfy them with a storyline along with the characters of a show. But well, if we talk about Demon Slayer, it has definitely made its name all over the world with all the things it offered. The story of the show is also quite good along with all the fights that come with premium animation. ",
+      "category":"Dolls & Plushies",
+      "image":"https://otakustore.net/wp-content/uploads/2021/12/180734-ntwthc-350x350.jpg",
+      "rating":{"rate":3.4,"count":90}
+    },
+    {
+      "id": 18,
+      "title": "Tokyo Ghoul - Kaneki Ken Mask",
+      "price": 36.99,
+      "description": "Embrace your inner ghoul with this Kaneki Ken mask from Tokyo Ghoul. Whether it's for cosplay or display, this mask is sure to impress.",
+      "category": "Accessories",
+      "image": "https://otakustore.net/wp-content/uploads/2020/12/62302-tu9ab6-350x350.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 210
+      }
+    },
+    {
+      "id": 19,
+      "title": "One Piece - Straw Hat Pirate Flag",
+      "price": 28.00,
+      "description": "Show your love for the Straw Hat crew with this cool pirate flag from One Piece. Hang it on your wall or take it to conventions to let everyone know you're a proud fan.",
+      "category": "Accessories",
+      "image": "https://th.bing.com/th/id/OIP.ZiNKG49huXzvquFuGM8CNgHaFT?pid=ImgDet&rs=1",
+      "rating": {
+        "rate": 4.3,
+        "count": 175
+      }
+    },
+    {
+      "id": 20,
+      "title": "Bleach - Ichigo Themed Badass Hoodies",
+      "price": 35.00,
+      "description": "Bleach might have gotten old due to its initial release date, but the thing is, the anime has competed with some of the greatest in the industry like Naruto and One Piece. Bleach is also a shounen anime that focuses on the protagonist Ichigo. Ichigo is a badass person with humor who is quite firm in his beliefs and aims.",
+      "category": "T-Shirts and hoodies",
+      "image": "https://i.pinimg.com/originals/50/8c/43/508c43a09d1958869da0baed0d48e7ba.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": 21,
+      "title": "Spy X Family - Anya Themed Wholesome Hoodies",
+      "price": 37.00,
+      "description": "We recommend Spy X Family to anyone who is simply looking for a relaxing show that could make them laugh and offer some wholesome moments with a cute family. But that is not all the show has to offer. There are some very interesting twists in the story, some cute fights, and character development that would make you love the show even more.",
+      "category": "T-Shirts and hoodies",
+      "image": "https://otakustore.net/wp-content/uploads/2023/04/241835-oqc0u8-350x350.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 250
+      }
+    },
+    {
+      "id": 22,
+      "title": "Haikyuu!! - Karasuno Volleyball Team Visor",
+      "price": 18.99,
+      "description": "Support the Karasuno High volleyball team with this stylish visor from Haikyuu!! Stay cool and cheer them on in their matches!",
+      "category": "Caps & Hats",
+      "image": "https://th.bing.com/th/id/OIP.H7tk5s9eBFGiFkuSRh7MFAHaE4?pid=ImgDet&rs=1",
+      "rating": {
+        "rate": 4.3,
+        "count": 170
+      }
+    },
+    {
+      "id": 23,
+      "title": "Dragon Ball Z - Capsule Corp Baseball Cap",
+      "price": 20.50,
+      "description": "Show your love for the Capsule Corporation with this official baseball cap from Dragon Ball Z. Be part of Bulma's high-tech company!",
+      "category": "Caps & Hats",
+      "image": "https://th.bing.com/th/id/R.b655d7912114ad7f931d38118d1fd2dd?rik=90001VPOrCXZFA&pid=ImgRaw&r=0",
+      "rating": {
+        "rate": 4.5,
+        "count": 210
+      }
+    },
+    {
+      "id": 24,
+      "title": "Sailor Moon - Luna Bucket Hat",
+      "price": 21.99,
+      "description": "Keep the sun away with this adorable Luna bucket hat from Sailor Moon. Luna will guide you on your magical adventures!",
+      "category": "Caps & Hats",
+      "image": "https://th.bing.com/th/id/OIP.c7HcGtvfAy6BzV9uuFSUOgHaGL?pid=ImgDet&rs=1",
+      "rating": {
+        "rate": 4.2,
+        "count": 220
+      }
+    },
+    {
+      "id": 25,
+      "title": "Tokyo Ghoul - Ken Kaneki Hat",
+      "price": 26.95,
+      "description": "Embrace the half-ghoul side with this Ken Kaneki face mask from Tokyo Ghoul. Stay mysterious and protect yourself!",
+      "category": "Caps & Hats",
+      "image": "https://th.bing.com/th/id/OIP.ngvZCnUFgvH1ZjOpvbQJ0gHaHg?pid=ImgDet&rs=1",
+      "rating": {
+        "rate": 4.9,
+        "count": 250
+      }
+    },
+    {
+      "id": 26,
+      "title": "Black Clover - Magic Knights Emblem Snapback Hat",
+      "price": 25.95,
+      "description": "Represent your favorite Magic Knight squad with this snapback hat from Black Clover. Choose your team and unleash your magic!",
+      "category": "Caps & Hats",
+      "image": "https://th.bing.com/th/id/OIP.JW0seKrKFyAEFNBnfmTvMgHaIS?pid=ImgDet&rs=1",
+      "rating": {
+        "rate": 4.6,
+        "count": 190
+      }
+    },
+    {
+      "id": 27,
+      "title": "One Piece - Strew Hat",
+      "price": 23.99,
+      "description": "The Straw Hat has become an iconic symbol not just within the One Piece universe but also among fans worldwide. It represents the indomitable spirit of adventure and the pursuit of dreams, making it a cherished and beloved item in the world of anime and manga.",
+      "category": "Caps & Hats",
+      "image": "https://th.bing.com/th/id/OIP.E4kmNUltReroKW-3IKlPPAAAAA?pid=ImgDet&rs=1",
+      "rating": {
+        "rate": 4.7,
+        "count": 210
+      }
+    }
+    
+    
+  ],
+
+  "categories": [
+    "T-Shirts and hoodies",
+    "Caps & Hats",
+    "Accessories",
+    "Dolls & Plushies"
+  ]
+}

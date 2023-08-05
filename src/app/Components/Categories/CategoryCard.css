@@ -1,0 +1,28 @@
+.custom-card {
+  height: 100%;
+  background: #fafcfc;
+  box-shadow: 10px 10px 20px #66656e, -10px -10px 20px #ffffff;
+  border: none;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 500;
+}
+.custom-category-card {
+  height: 100%;
+  background: rgb(245, 245, 241);
+  box-shadow: 10px 10px 20px #dbdae2, -10px -10px 20px #ffffff;
+  border: none;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 500;
+  
+}
+ 
+.category:hover {
+  box-shadow: 0px 0px 30px 1px rgba(67, 10, 223, 0.7);
+  transform: scale(1.04) translateY(-6px);
+  opacity: 0.8;
+  
+}
+
+ 
